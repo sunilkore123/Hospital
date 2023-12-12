@@ -1,2 +1,2 @@
 # hospiTal
-Pin code-41109
+Pincode-41109
