@@ -1,2 +1,2 @@
 # hospiTal
-Loaction:Pune
+Location:Pune
